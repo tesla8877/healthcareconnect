@@ -53,5 +53,5 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License
 
 <!-- CONTACT -->
 ## Contact
-- Project Link: [PatientAssistance](https://github.com/provodoihi/PatientAssistance)
+- Project Link: [PatientAssistance](https://github.com/tesla8877/healthcareconnect)
 - The server-side application of this project can be found here:  [healthcareconnectserver](https://github.com/tesla8877/healthcareconnectserver)
