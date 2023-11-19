@@ -31,7 +31,7 @@ To run the application, you need to install the latest `yarn` package manager
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/provodoihi/PatientAssistance.git
+   git clone https://github.com/tesla8877/healthcareconnect
    ```
 2. Install Yarn packages
    ```sh
@@ -54,4 +54,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License
 <!-- CONTACT -->
 ## Contact
 - Project Link: [PatientAssistance](https://github.com/provodoihi/PatientAssistance)
-- The server-side application of this project can be found here:  [Patient-Assistance-Spring-Boot](https://github.com/redlion2375/health-care-connect-server)
+- The server-side application of this project can be found here:  [healthcareconnectserver](https://github.com/tesla8877/healthcareconnectserver)
